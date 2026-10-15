@@ -24,7 +24,4 @@ microcontroller receives data through UART,
 stores the message in EEPROM using I2C, and
 displays the message as scrolling text on LED
 dot matrix displays.
-## Demo Video
-## Demo Video
 
-[▶ Watch Project Demo](./WhatsApp%20Video%202026-10-15%20at%2013.39.38.mp4)
